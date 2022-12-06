@@ -17,12 +17,12 @@
       <div class="panel panel-default">
         <div class="panel-heading" role="tab">
           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false">
-            Item #1
+            Menu A
           </a>
         </div>
         <div id="collapse1" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
-            Hello world1
+            <img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EA%B0%80%EC%9D%84_%EC%82%AC%EA%B0%81%ED%98%95.jpg" width=500>
           </div>
         </div>
       </div>
@@ -31,33 +31,29 @@
       <div class="panel panel-default">
         <div class="panel-heading" role="tab">
           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false">
-            Item #2
+            Menu B
           </a>
         </div>
         <div id="collapse2" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
-            Hello world2
+            <img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EB%8B%AC%EB%A0%A5_%EC%84%B8%EB%A1%9C%ED%98%95.jpg" width=500>
           </div>
         </div>
       </div>      
       <div class="panel panel-default">
         <div class="panel-heading" role="tab">
           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false">
-            Item #3
+            Menu C
           </a>
         </div>
         <div id="collapse3" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
-            Hello world3
+            <img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EA%B0%80%EC%9D%84_%EC%82%AC%EA%B0%81%ED%98%95.jpg" width=500>
           </div>
         </div>
       </div>
     </div>
   </div>
- 
-  <p><a href="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EA%B0%80%EC%9D%84_%EC%82%AC%EA%B0%81%ED%98%95.jpg" target="_blank">Menu A</a></p>
- <p><a href="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EB%8B%AC%EB%A0%A5_%EC%84%B8%EB%A1%9C%ED%98%95.jpg" target="_blank">Menu B</a></p>
-
 </body>
 </html> 
 
