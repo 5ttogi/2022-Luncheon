@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>title</title>
+  <title>2022 연구발표회 런천</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -8,6 +8,9 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+  <p>
+  <img src="https://github.com/5ttogi/5ttogi/blob/main/11%EC%9B%94_%EA%B0%80%EC%9D%84_%EC%82%AC%EA%B0%81%ED%98%95.jpg" width="100%" />
+  </p>
   <div class="container-fluid" style="min-height: calc(100vh - 136px);">
     <!-- 그룹 태그로 role과 aria-multiselectable를 설정한다. -->
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
