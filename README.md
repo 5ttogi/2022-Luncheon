@@ -38,7 +38,9 @@
         <div id="collapse2" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
             <p>Hello world2</p>
-            <img src="https://ottogi.okitchen.co.kr/pds/editor/340_2.jpg" width="100%" />
+            <img 
+                 src="https://ottogi.okitchen.co.kr/pds/editor/340_2.jpg" width="100%" 
+                 />
           </div>
         </div>
       </div>
@@ -51,7 +53,9 @@
         <div id="collapse3" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
             <p>Hello world3</p>
-            <img src="https://ottogi.okitchen.co.kr/pds/editor/340_3.jpg" width="100%" />
+            <img 
+                 src="https://ottogi.okitchen.co.kr/pds/editor/340_3.jpg" width="100%" 
+                 />
           </div>
         </div>
       </div>
