@@ -20,7 +20,7 @@
         </div>
         <div id="collapse1" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
-            <p>Hello world1
+            <p>Hello world1</p>
             <img src="https://ottogi.okitchen.co.kr/pds/editor/340_1.jpg" width=100%/>
           </div>
         </div>
@@ -35,7 +35,7 @@
         </div>
         <div id="collapse2" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
-            <p>Hello world2
+            <p>Hello world2</p>
             <img src="https://ottogi.okitchen.co.kr/pds/editor/340_2.jpg" width=100%/>
           </div>
         </div>
@@ -48,7 +48,7 @@
         </div>
         <div id="collapse3" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
-            Hello world3<br>
+            <p>Hello world3</p>
             <img src="https://ottogi.okitchen.co.kr/pds/editor/340_3.jpg" width=100%/>
           </div>
         </div>
