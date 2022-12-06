@@ -21,7 +21,9 @@
         <div id="collapse1" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
             <p>Hello world1</p>
-            <img src="https://ottogi.okitchen.co.kr/pds/editor/340_1.jpg" width="100%" />
+            <img 
+                 src="https://ottogi.okitchen.co.kr/pds/editor/340_1.jpg" width="100%" 
+                 />
           </div>
         </div>
       </div>
