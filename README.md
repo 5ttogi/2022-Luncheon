@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
   <div class="container-fluid" style="min-height: calc(100vh - 136px);">
