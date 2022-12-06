@@ -12,7 +12,7 @@
         </div>
         <div id="collapse1" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
-            <img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202022-09-26%20182955.png?raw=true" width=500>
+            <img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202022-09-26%20182955.png" width=500>
           </div>
         </div>
       </div>
