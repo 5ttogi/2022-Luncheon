@@ -36,7 +36,7 @@
         <div id="collapse2" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
             <p>Hello world2</p>
-            <p><img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EB%8B%AC%EB%A0%A5_%EC%84%B8%EB%A1%9C%ED%98%95.jpg?raw=true" width=100%></p>
+            <img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EB%8B%AC%EB%A0%A5_%EC%84%B8%EB%A1%9C%ED%98%95.jpg?raw=true" width=100%>
           </div>
         </div>
       </div>
@@ -48,8 +48,8 @@
         </div>
         <div id="collapse3" class="panel-collapse collapse" role="tabpanel">
           <div class="panel-body">
-            <p>Hello world3</p>
-            <p><img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EA%B0%80%EC%9D%84_%EC%82%AC%EA%B0%81%ED%98%95.jpg?raw=true" width=100%></p>
+            <br>Hello world3</br>
+            <img src="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EA%B0%80%EC%9D%84_%EC%82%AC%EA%B0%81%ED%98%95.jpg?raw=true" width=100%>
           </div>
         </div>
       </div>
