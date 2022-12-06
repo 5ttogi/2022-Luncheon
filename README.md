@@ -1,13 +1,63 @@
 # 오뚜기 테스트
+<!DOCTYPE html>
 <html>
+<head>
+  <title>title</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
 <body>
- <p><a href="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EA%B0%80%EC%9D%84_%EC%82%AC%EA%B0%81%ED%98%95.jpg" target="_blank">Menu A</a></p>
+  <div class="container-fluid" style="min-height: calc(100vh - 136px);">
+    <!-- 그룹 태그로 role과 aria-multiselectable를 설정한다. -->
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+      <!-- 하나의 item입니다. data-parent 설청과 href 설정만 제대로 하면 문제없이 작동합니다. -->
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab">
+          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false">
+            Item #1
+          </a>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse" role="tabpanel">
+          <div class="panel-body">
+            Hello world1
+          </div>
+        </div>
+      </div>
+      <!-- -->
+      <!-- 하나의 item입니다.  -->
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab">
+          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false">
+            Item #2
+          </a>
+        </div>
+        <div id="collapse2" class="panel-collapse collapse" role="tabpanel">
+          <div class="panel-body">
+            Hello world2
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab">
+          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false">
+            Item #3
+          </a>
+        </div>
+        <div id="collapse3" class="panel-collapse collapse" role="tabpanel">
+          <div class="panel-body">
+            Hello world3
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+  <p><a href="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EA%B0%80%EC%9D%84_%EC%82%AC%EA%B0%81%ED%98%95.jpg" target="_blank">Menu A</a></p>
  <p><a href="https://github.com/5ttogi/5ttogi.github.io/blob/main/11%EC%9B%94_%EB%8B%AC%EB%A0%A5_%EC%84%B8%EB%A1%9C%ED%98%95.jpg" target="_blank">Menu B</a></p>
 
-<p><a href="#bottom">문서의 하단으로</a></p>
- 
-<p style="height:600px;">스크롤이 되는 효과를 나타내기 위해서 이 문단의 높이를 높게 지정합니다.</p>
+</body>
+</html> 
 
-<p><a name="bottom">여기가 문서의 하단</a></p>
-  </body>
-</html>
