@@ -13,7 +13,7 @@
   <div class="container-fluid" style="min-height: calc(100vh - 136px);">
     <!-- 그룹 태그로 role과 aria-multiselectable를 설정한다. -->
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-      <!-- 하나의 item입니다. data-parent 설청과 href 설정만 제대로 하면 문제없이 작동합니다. -->
+      <!-- 하나의 item입니다. data-parent 설청과 href 설정만 제대로 하면 문제없이 작동합니다. -->     
       <div class="panel panel-default">
         <div class="panel-heading" role="tab">
           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false">
@@ -27,7 +27,7 @@
         </div>
       </div>
       <!-- -->
-      <!-- 하나의 item입니다.  -->
+      <!-- 하나의 item입니다.  -->      
       <div class="panel panel-default">
         <div class="panel-heading" role="tab">
           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false">
@@ -39,7 +39,7 @@
             Hello world2
           </div>
         </div>
-      </div>
+      </div>      
       <div class="panel panel-default">
         <div class="panel-heading" role="tab">
           <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false">
